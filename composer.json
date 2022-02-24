@@ -4,6 +4,6 @@
             "type": "vcs",
             "url": "https://github.com/moodlehq/moodle-behat-extension"
         }
-    ],
+    ]
    
 }
